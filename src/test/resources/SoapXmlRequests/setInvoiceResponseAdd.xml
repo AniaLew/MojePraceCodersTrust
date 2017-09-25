@@ -1,0 +1,4 @@
+<ns2:setInvoiceResponse xmlns:ns2="http://coderstrust.pl/soapinvoices">
+  <ns2:id>2</ns2:id>
+</ns2:setInvoiceResponse>
+

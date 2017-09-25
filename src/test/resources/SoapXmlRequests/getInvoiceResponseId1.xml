@@ -1,0 +1,26 @@
+<ns2:getInvoiceResponse xmlns:ns2="http://coderstrust.pl/soapinvoices">
+  <ns2:invoice>
+    <ns2:id>1</ns2:id>
+    <ns2:date>2017-07-15+02:00</ns2:date>
+    <ns2:counterparty>
+      <ns2:companyName>My company</ns2:companyName>
+      <ns2:address>
+        <ns2:zipCode>97-420</ns2:zipCode>
+        <ns2:townName>Lodz</ns2:townName>
+        <ns2:streetName>Piotrkowska</ns2:streetName>
+        <ns2:houseNumber>56</ns2:houseNumber>
+      </ns2:address>
+      <ns2:phoneNumber>+48 44 634 22 70</ns2:phoneNumber>
+      <ns2:nip>769-19-18-016</ns2:nip>
+      <ns2:bankName>PKO BP</ns2:bankName>
+      <ns2:bankNumber>09 2490 1044 0000 3200 9400 7370</ns2:bankNumber>
+    </ns2:counterparty>
+    <ns2:items>
+      <ns2:description>Petrol</ns2:description>
+      <ns2:numberOfItem>1</ns2:numberOfItem>
+      <ns2:amount>10</ns2:amount>
+      <ns2:vatAmount>1</ns2:vatAmount>
+      <ns2:vat>VAT_23</ns2:vat>
+    </ns2:items>
+  </ns2:invoice>
+</ns2:getInvoiceResponse>

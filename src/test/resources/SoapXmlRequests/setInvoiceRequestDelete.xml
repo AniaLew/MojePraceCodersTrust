@@ -1,0 +1,5 @@
+<ns2:setInvoiceRequest xmlns:ns2="http://coderstrust.pl/soapinvoices">
+  <ns2:invoiceAttributes>
+    <ns2:id>1</ns2:id>
+  </ns2:invoiceAttributes>
+</ns2:setInvoiceRequest>

@@ -1,0 +1,6 @@
+<ns2:getInvoicesRequest xmlns:ns2="http://coderstrust.pl/soapinvoices">
+  <ns2:selectByDate>
+    <ns2:fromDate>2017-07-15</ns2:fromDate>
+    <ns2:toDate>2017-07-15</ns2:toDate>
+  </ns2:selectByDate>
+</ns2:getInvoicesRequest>
